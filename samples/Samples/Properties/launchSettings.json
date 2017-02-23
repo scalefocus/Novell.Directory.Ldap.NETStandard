@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Novell.Directory.Ldap.Samples": {
+      "commandName": "Project"
+    }
+  }
+}
